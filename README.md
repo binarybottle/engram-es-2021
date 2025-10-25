@@ -45,7 +45,7 @@ Letters are optimally arranged according to ergonomics factors that promote redu
 ## Why a new keyboard layout? <a name="why">
 
 **History** <br>
-After creating the English Engram-2021 layout(https://github.com/binarybottle/engram-2021), community members came together to help guide the creation of a Spanish version.  Thank you, Nick Gutiérrez (@NickG13) and Miguel Guzmán (@Lobo-Feroz), and a special thanks to Ian Douglas (@iandoug) for cleaning up the Leipzig Spanish corpus and for computing character and bigram frequencies!  For documentation of this Spanish corpus, please see [Creating a Corpus and Chained Bigrams for Spanish Keyboard Development and Evaluation](https://zenodo.org/record/5501931).
+After creating the English [Engram-2021 layout](https://github.com/binarybottle/engram-2021), community members came together to help guide the creation of a Spanish version.  Thank you, Nick Gutiérrez (@NickG13) and Miguel Guzmán (@Lobo-Feroz), and a special thanks to Ian Douglas (@iandoug) for cleaning up the Leipzig Spanish corpus and for computing character and bigram frequencies!  For documentation of this Spanish corpus, please see [Creating a Corpus and Chained Bigrams for Spanish Keyboard Development and Evaluation](https://zenodo.org/record/5501931).
 
 **Why "Engram"?** <br>
 The name is a pun, referring both to "n-gram", letter permutations and their frequencies that are used to compute an Engram layout, and "engram", or memory trace, the postulated change in neural tissue to account for the persistence of memory, as a nod to my attempt to make this layout easy to remember.
